@@ -4,7 +4,7 @@ Este repositório contém uma coleção de **exercícios de lógica de programa�
 
 ## Conteúdo
 
-- **Java**: Exercícios implementados na linguagem Java, incluindo conceitos de variáveis, estruturas de decisão, loops, funções e arrays.  
+- **Java**: Exercícios implementados em Java, incluindo conceitos de variáveis e tipos de dados, estruturas de decisão e repetição, criação de funções/métodos, manipulação de arrays e listas, e noções básicas de Programação Orientada a Objetos, como classes, objetos, atributos, métodos, construtores, encapsulamento e herança. Também abrange manipulação de Strings, tratamento de exceções, entrada e saída de dados, e noções de coleções e boas práticas de programação.  
 - **Pseudocódigo**: Exercícios estruturados em pseudocódigo para entender a lógica sem se prender à sintaxe de uma linguagem específica.
 
 ## Objetivo
