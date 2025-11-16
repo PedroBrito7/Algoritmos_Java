@@ -1,4 +1,4 @@
-/*
+/* algoritmo de treino
 algoritmo Equacaodesegundograu
     início
         algoritmo "EquacaoSegundoGrau"
