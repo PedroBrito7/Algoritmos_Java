@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algoritmos_Java.iml" filepath="$PROJECT_DIR$/Algoritmos_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/CalcularAreaTriangulo/CalcularAreaTriangulo.iml" filepath="$PROJECT_DIR$/fundamentos4/CalcularAreaTriangulo/CalcularAreaTriangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/CercaTriangulo/CercaTriangulo.iml" filepath="$PROJECT_DIR$/fundamentos4/CercaTriangulo/CercaTriangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/Cilindro/Cilindro.iml" filepath="$PROJECT_DIR$/fundamentos4/Cilindro/Cilindro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/Equação/Equação.iml" filepath="$PROJECT_DIR$/fundamentos4/Equação/Equação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/Operacoes/Operacoes.iml" filepath="$PROJECT_DIR$/fundamentos4/Operacoes/Operacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/Restaurante/Restaurante.iml" filepath="$PROJECT_DIR$/fundamentos4/Restaurante/Restaurante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos4/Restodadivisao/Restodadivisao.iml" filepath="$PROJECT_DIR$/fundamentos4/Restodadivisao/Restodadivisao.iml" />
+    </modules>
+  </component>
+</project>
