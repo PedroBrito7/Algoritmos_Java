@@ -12,7 +12,7 @@ public class YearsBetween {
             anos++;
         }
 
-        System.out.println("Serão necessários " + anos + " anos para Francisco ser maior que Sara.");
+        System.out.println("It will take " + anos + " years for Francisco to be taller than Sara.");
 
     }
 }
