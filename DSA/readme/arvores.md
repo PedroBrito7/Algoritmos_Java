@@ -13,11 +13,26 @@ e os nós sem filho São folhas(leaves)
 - Melhor perfomance em busca e inserção comparado a listas (com balanceamento)
 
 ### Como construir uma árvore e inverter-las
-Todos descedentes do nó tambem são arvores(se nao tiver filhos sao folhas), Todos aqueles valores que forem
+Todos descendentes do nó tambem são arvores(se nao tiver filhos sao folhas), Todos aqueles valores que forem
 maior que o nó root, vão ser pra direita enquanto os menores pra esquerda sempre.
 
 # Árvores binárias de busca
 
 # Heaps
+Heap é uma área da memória do computador usada para armazenar objetos 
+criados durante a execução do programa.
+Ela resolve de forma eficiente problemas de CC 
+especial quando você precisar acessar rapidamente o min e max valor de conjunto de dados dinamicos
 
+## Algoritmos famosos
+- filas de prioridade como agendamento de tarefas, 
+- Algoritmos de redes como dijkstra
+- Simulacao de eventos (event driven simulation)
+- Sistema de operacionais
+
+
+
+### MinHeap / MaxHeap
+Mínimo sempre tem o menor na raiz 
+e maximo sempre o maior
 # Tabelas Hash(HashMap e HashSet)
