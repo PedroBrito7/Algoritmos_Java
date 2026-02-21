@@ -32,7 +32,30 @@ especial quando você precisar acessar rapidamente o min e max valor de conjunto
 
 
 
-### MinHeap / MaxHeap
-Mínimo sempre tem o menor na raiz 
-e maximo sempre o maior
+## MinHeap / MaxHeap
+- Mínimo sempre tem o menor elemento na raiz
+- maximo sempre o maior elemento na raiz
+- Isso permite fazer operacoes de qual menor valor ou qual maior valor que leva O(1)
+
+```
+import java.util.*;
+
+public class MinHeap {
+    public static void main(String[] args) {
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        // Adiciona elementos
+        minHeap.add(10);
+        minHeap.add(20);
+        minHeap.add(5);
+        minHeap.add(30);
+        minHeap.add(15);
+
+        System.out.println("Min Heap: " + minHeap);
+        System.out.println("Valor mínimo (raiz): " + minHeap.peek());
+        System.out.println("Removendo raiz: " + minHeap.poll());
+        System.out.println("Heap após remoção: " + minHeap);
+    }
+}
+```
 # Tabelas Hash(HashMap e HashSet)
