@@ -19,3 +19,9 @@ nomes.add("Lucas");
 nomes.add("Matheus");
 System.out.println(nomes.size()); // 1
 ```
+
+### Diferenças entre Hash Set e o Hash Map
+Em Java, tanto HashMap quanto HashSet fazem parte do pacote java.util e usam tabela hash para armazenar dados rapidamente (busca, inserção e remoção geralmente em O(1)). A diferença principal está no que cada um armazena.
+- O HashMap armazena pares de chave e valor.
+- O HashSet armazena apenas valores únicos, sem chave.
+
